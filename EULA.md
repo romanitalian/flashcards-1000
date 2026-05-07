@@ -1,4 +1,4 @@
-# FlashCards1000 — End User License Agreement (readable copy)
+# FlashCards1000 — End User License Agreement
 
 The **binding** End User License Agreement (EULA) for **FlashCards1000** is the **License Agreement** shown on this app’s page in the App Store (App Store Connect → App Information → License Agreement).
 
