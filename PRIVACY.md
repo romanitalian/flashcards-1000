@@ -1,6 +1,8 @@
 # Privacy Policy — FlashCards 1000
 
-**Last updated:** March 22, 2026
+**Last updated:** May 18, 2026
+
+**Effective date:** May 18, 2026
 
 ## Contact
 
@@ -8,9 +10,15 @@ Questions about this policy:
 
 **Email:** rmndevapps@gmail.com
 
+**Related documents:** [End User License Agreement (EULA)](https://raw.githubusercontent.com/romanitalian/flashcards-1000/refs/heads/main/EULA.md)
+
 ## Who we are
 
-**FlashCards 1000** (“the app”) is a vocabulary flashcard app for **iPhone, iPad, Mac, and Apple Watch**. It helps you study the **1,000 most common words** per **CEFR level (A1–B2)** for **Portuguese, Spanish, or English**, using **spaced repetition (FSRS)**. Words and examples are bundled with the app; **core study works without an internet connection.**
+**FlashCards 1000** (“the app”) is a vocabulary flashcard app for **iPhone, iPad, Mac, and Apple Watch**. It helps you study the **1,000 most common words** per **CEFR level (A1–B2)** using **spaced repetition (FSRS)**.
+
+Study languages currently available in the app include **European Portuguese, Brazilian Portuguese, Spanish, English, French, German, Italian, Swedish, and Esperanto**. Words and examples are bundled with the app; **core study works without an internet connection.**
+
+Optional **pronunciation audio packs** may be downloaded through **Apple On-Demand Resources** when you choose to download them. That delivery is handled by Apple’s infrastructure, not by a separate data-collection service operated by us for your study progress.
 
 This policy describes how information is handled when you use the app.
 
@@ -27,12 +35,23 @@ If this changes in a future version, we will update this policy and, where requi
 
 To work offline and remember your place, the app stores data **locally on your device**, for example:
 
-- **Study context** — chosen learning language, CEFR level, interface language preferences, and onboarding state  
-- **FSRS progress** — per-card scheduling state (what to review next)  
-- **Session statistics** — review history and aggregated stats used to show progress in the app  
-- **App settings** — such as theme or sound preferences where applicable  
+- **Study context** — chosen learning language, CEFR level, interface language preferences, and onboarding state
+- **FSRS progress** — per-card scheduling state (what to review next)
+- **Session statistics** — review history and aggregated stats used to show progress in the app
+- **App settings** — such as theme or sound preferences where applicable
 
 This data stays on your device under your Apple ID’s app sandbox. **We cannot access it remotely.** Removing the app (and, depending on iCloud/device settings, related data) typically deletes this local data.
+
+## Subscriptions and App Store purchases
+
+Some features require a **paid auto-renewable subscription** or other In-App Purchases billed by **Apple** through your App Store account.
+
+- We **do not** receive or store your payment card number or full payment credentials.
+- Apple processes payment, billing, renewals, cancellations, and refunds according to Apple’s policies and your account settings.
+- Subscription **title, length, price**, and what is included during each period are shown in the app before you confirm a purchase.
+- Subscriptions renew automatically unless you cancel at least **24 hours** before the end of the current period in **Settings → Subscriptions** on your device.
+
+Terms of use for the app and paid features are in our [EULA](https://raw.githubusercontent.com/romanitalian/flashcards-1000/refs/heads/main/EULA.md).
 
 ## Third-party code
 
@@ -48,7 +67,7 @@ If we add optional analytics or crash reporting later, we will update this polic
 
 ## Children’s privacy
 
-The app is suitable for learners of different ages who want to study vocabulary. We do **not** knowingly collect personal information from children through the app as described above (no account, no deliberate collection of contact details in-app). If you believe a child has shared personal data with us via email, contact us and we will address it.
+The app is intended for a **general audience** of language learners and is **not** offered in the App Store **Kids** category. We do **not** knowingly collect personal information from children through the app as described above (no account, no deliberate collection of contact details in-app). If you believe a child has shared personal data with us via email, contact us and we will address it.
 
 ## Your rights (EEA, UK, and similar regions)
 
@@ -70,6 +89,4 @@ We may update this policy from time to time. The **Last updated** date at the to
 
 **Email:** rmndevapps@gmail.com
 
----
-
-**Effective date:** March 22, 2026
+**EULA:** https://raw.githubusercontent.com/romanitalian/flashcards-1000/refs/heads/main/EULA.md
