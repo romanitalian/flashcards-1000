@@ -67,7 +67,7 @@ If we add optional analytics or crash reporting later, we will update this polic
 
 ## Children’s privacy
 
-The app is intended for a **general audience** of language learners and is **not** offered in the App Store **Kids** category. We do **not** knowingly collect personal information from children through the app as described above (no account, no deliberate collection of contact details in-app). If you believe a child has shared personal data with us via email, contact us and we will address it.
+The app may be listed in the App Store **Kids** category. Before a user can open **external links** (Privacy Policy, Terms of Use), use **Share** (which may include an App Store link in the shared text), or start a **subscription purchase or restore**, the app shows a **parental gate**: a short multiplication task intended for adults. This gate **cannot be turned off** in the app. We do **not** knowingly collect personal information from children through the app as described above (no account, no deliberate collection of contact details in-app). If you believe a child has shared personal data with us via email, contact us and we will address it.
 
 ## Your rights (EEA, UK, and similar regions)
 
